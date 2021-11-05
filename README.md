@@ -23,10 +23,24 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+Accessibility is the practice of making your websites usable by as many people as possible. We traditionally think of this as being about people with disabilities, but the practice of making sites accessible also benefits other groups such as those using mobile devices, or those with slow network connections.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+    1. Use headings correctly to organize the structure of your content.
+    2. Include proper alt text for images.
+    3. Give your links unique and descriptive names.
+
 3. How would you explain the concept of a variable to someone new to programming?
+    using var, let, const. 
+    names can be contain letters, digits, underscores, and dollar signs.
+    case-sensitive.
+
 4. What is the purpose of using functions in code?
+    avaScript a function allows you to define a block of code, give it a name and then execute it as many times as you want. A function can be defined using function keyword and can be executed using () operator. A function can include one or more parameters.
+
 5. How do you access a key inside of an object inside of an array?
+    Object.keys(object)
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
